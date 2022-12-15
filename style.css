@@ -1,0 +1,50 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:black;
+}
+
+h1{
+    padding: 20px;
+    color: gold;
+    text-align: center;
+
+}
+
+.comp{
+    padding: 50px;
+    color: gold;
+}
+
+.user{
+    padding: 50px;
+    color: gold;
+}
+
+.result{
+    padding: 50px;
+    color: gold;
+}
+
+.btns{
+    padding: 10px 50px;
+}
+
+button{
+    padding: 10px;
+    margin: 35px 10px;
+    border-radius: 30px;
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+}
+
+button:hover{
+    background-color: darkorange;
+    color: white;
+}
